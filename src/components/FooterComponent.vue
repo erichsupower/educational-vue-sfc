@@ -1,4 +1,6 @@
-<template src="../templates/footer.html"></template>
+<template>
+  <h1>Footer</h1>
+</template>
 
 <script>
 export default {
